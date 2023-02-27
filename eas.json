@@ -21,9 +21,9 @@
   "submit": {
     "production": {
       "ios": {
-        "appleId": "$USER",
-        "appleTeamId": "$TEAM",
-        "ascAppId": "$APP"
+        "appleId": "LOADED_FROM_ENVIRONMENT",
+        "appleTeamId": "LOADED_FROM_ENVIRONMENT",
+        "ascAppId": "LOADED_FROM_ENVIRONMENT"
       }
     },
     "preview": {
