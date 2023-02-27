@@ -20,11 +20,6 @@
   },
   "submit": {
     "production": {
-      "ios": {
-        "appleId": "LOADED_FROM_ENVIRONMENT",
-        "appleTeamId": "LOADED_FROM_ENVIRONMENT",
-        "ascAppId": "LOADED_FROM_ENVIRONMENT"
-      }
     },
     "preview": {
       "android": {
