@@ -13,7 +13,7 @@ env:
   IOS_USER_ID: ${{ secrets.IOS_USER_ID }}
   IOS_TEAM_ID: ${{ secrets.IOS_TEAM_ID }}
   IOS_APP_ID: ${{ secrets.IOS_APP_ID }}
-  PROFILE: ${GITHUB_REF##*/}
+  PROFILE: '${GITHUB_REF##*/}'
 
 jobs:
   ci:
